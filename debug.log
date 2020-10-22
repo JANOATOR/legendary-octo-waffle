@@ -1,0 +1,3 @@
+[1022/095439.944:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Janic\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\4884ac42-bd6f-4597-8bc9-8cf1222c9d30: The system cannot find the path specified. (0x3)
+[1022/095439.947:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Janic\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c2645722-3730-4db9-ac3c-9c2dc9d6c7d9: The system cannot find the path specified. (0x3)
+[1022/095439.947:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
